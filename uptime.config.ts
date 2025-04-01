@@ -3,9 +3,9 @@ const pageConfig = {
   title: "lyc8503's Status Page",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://github.com/lyc8503', label: 'GitHub' },
-    { link: 'https://blog.lyc8503.net/', label: 'Blog' },
-    { link: 'mailto:me@lyc8503.net', label: 'Email Me', highlight: true },
+    { link: 'https://github.com/he-zhenpeng', label: 'GitHub' },
+    { link: 'https://skylerhe-qinglong.hf.space/', label: '青龙面板' },
+    { link: 'https://sunpanel.887178.xyz/', label: 'SunPanel', highlight: true },
   ],
   // [OPTIONAL] Group your monitors
   // If not specified, all monitors will be shown in a single list

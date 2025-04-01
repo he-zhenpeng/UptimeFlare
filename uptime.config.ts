@@ -1,19 +1,19 @@
 const pageConfig = {
   // Title for your status page
-  title: "lyc8503's Status Page",
+  title: "SkylerHe's Status Page",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
     { link: 'https://github.com/he-zhenpeng', label: 'GitHub' },
-    { link: 'https://skylerhe-qinglong.hf.space/', label: '青龙面板' },
-    { link: 'https://sunpanel.887178.xyz/', label: 'SunPanel', highlight: true },
+    { link: 'https://skylerhe-qinglong.hf.space/', label: '青龙面板', highlight: true },
+    { link: 'https://sunpanel.887178.xyz/', label: 'SunPanel'},
   ],
   // [OPTIONAL] Group your monitors
   // If not specified, all monitors will be shown in a single list
   // If specified, monitors will be grouped and ordered, not-listed monitors will be invisble (but still monitored)
-  group: {
-    "🌐 Public (example group name)": ['foo_monitor', 'bar_monitor', 'more monitor ids...'],
-    "🔐 Private": ['test_tcp_monitor'],
-  },
+  // group: {
+  //   "🌐 Public (example group name)": ['foo_monitor', 'bar_monitor', 'more monitor ids...'],
+  //   "🔐 Private": ['test_tcp_monitor'],
+  // },
 }
 
 const workerConfig = {
